@@ -15,3 +15,5 @@ I never rewind VHS cassettes.
 I pay for my groceries with 5 cent coins.
 
 I spam the Hadouken move.
+
+I attach screenshots of the error text inside a docx file.
